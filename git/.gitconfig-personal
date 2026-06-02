@@ -1,0 +1,8 @@
+[user]
+	email = brettmbourgeois@gmail.com
+	name = Brett Bourgeois
+[core]
+  editor = vim
+
+[alias]
+  ci = commit
